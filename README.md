@@ -1,50 +1,49 @@
-# Hi there! 👋 I'm Johi Chawla
+# 👋 Hi, I'm Johi Chawla  
 
-I'm an undergraduate student at IBA Sukkur, pursuing a Bachelor's in Computer Science (Batch 25). I'm passionate about technology and have a diverse set of skills.
+🎓 Computer Science Graduate | 💻 Web Developer | 🤖 AI/ML Engineer  
 
-## About Me
-
-- 🎓 Studying BSCS at IBA Sukkur (Batch 25)
-- 💻 Tech enthusiast and aspiring software developer
-- 🚀 Currently honing my skills in HTML, CSS, JavaScript, React.js, MongoDB, Java, and C++
-- 📚 Interested in databases and data structures
-
-## 🚀 Skills
-- Data Science
-- Machine learing
-- HTML
-- CSS
-- JavaScript
-- React.js
-- MongoDB
-- Java
-- C++
-- Database
-- Data Structures
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/johi-chawala-~jc-55648a267)
-- [Facebook](https://www.facebook.com/juhi.chawala.1042)
-- [Email](mailto:johichawala33@gmail.com)
-
- ## 🛠️ Projects
-
-Explore some of my projects on [GitHub](https://github.com/JohiChawala).
-
-Feel free to connect with me via email (johichawala33@gmail.com) and check out my repositories. I'm open to collaboration and always eager to learn new things 😊!
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JohiChawala&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JohiChawala&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohiChawala&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
+I specialize in building **scalable web applications** and designing **end-to-end machine learning solutions**.  
+Passionate about solving real-world problems with code, data, and creativity.  
 
 ---
-<!--[![](https://visitcount.itsvg.in/api?id=JohiChawala&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
-![GitHub activity](https://img.shields.io/github/last-commit/JohiChawala/JohiChawala)
+## 🚀 Skills
 
+**AI/ML:** Python, TensorFlow, PyTorch, Scikit-learn, Transformers, GNNs, CNNs, XGBoost  
+**Web Development:** React.js, Node.js, Express.js, REST APIs, MongoDB, MySQL  
+**Other Tools:** Git, GitHub, Postman, VS Code, Google Colab, Jupyter  
 
+---
+
+## 💼 Experience
+
+- **Machine Learning Intern – Elevvo Pathways (2025)**  
+- **Data Science Intern – Web3gle (2024)**  
+- **Web Development Intern – Web3gle (2024)**  
+
+---
+
+## 🔑 Featured Projects (AI/ML)
+- **🔒 Open Source Software Vulnerability Detection** – [GitHub](#) | [Live Demo](#)  
+- **🩻 Fracture Detection with Transformers** – [GitHub](#)  
+- **🚗 IoV Intrusion Detection (LCCDE Framework)** – [GitHub](#)  
+
+## 🌐 Featured Projects (Web Development)
+- **🌍 Country Information Web App** – [Live](https://country-information-three.vercel.app/)  
+- **📝 Programming Quiz Website** – [Live](https://quiz-website-woad.vercel.app/)  
+- **🗂 React To-Do List** – [Live](#)  
+- **🍴 Food Blog Website** – [Live](https://personal-blog-website-project-1.vercel.app/)  
+
+---
+
+## 🏆 Achievements
+- 🥇 1st Place – RoboWar, SibaFest 2025  
+- 🎤 TechFest 2023 – Active Member & Organizer  
+- 💻 Speed Programming Competition – Participant  
+
+---
+
+## 📫 Let’s Connect
+- 📧 [Email](mailto:johichawala33@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/johi-chawla-55648a267)  
+- 🐙 [GitHub](https://github.com/JohiChawla)  
